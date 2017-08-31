@@ -22,11 +22,15 @@ View the "TBXML" wiki page to get find out how TBXML works. It contains many exa
 [TBXML](https://github.com/71squared/TBXML/wiki/TBXML)   
 [TBXML+Compression](https://github.com/71squared/TBXML/wiki/TBXML+Compression)   
 [TBXML+HTTP](https://github.com/71squared/TBXML/wiki/TBXML+HTTP)   
+TBXMLNSDictionary 
 
+Love the project? Wanna buy me a coffee? [dontation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9629667)
 
-<br/>
-Love the project? Wanna buy me a coffee? [![donation](http://www.paypal.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9629667)
+### Features of this fork
 
+* Case insensitive
+* Added classes for converting data into a dictionary
+* Original values without removing spaces or special characters (like tab etc.)
 
 <br/>
 <br/>
