@@ -68,7 +68,7 @@
 
 + (NSDictionary*)dictionaryWithXMLData:(NSData*)data
 {
-    TBXML *tbxml = [TBXML newTBXMLWithXMLData:data error:nil];
+    TBXML *tbxml = [TBXML tbxmlWithXMLData:data error:nil];
     if (!tbxml.rootXMLElement) {
         return nil;
     }
